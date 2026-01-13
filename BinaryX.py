@@ -1,5 +1,5 @@
 # Indexed
-# Ordered?
+# Ordered
 # Immutable
 
 Data = bytes([65, 97, 98, 99])

@@ -1,4 +1,4 @@
-print("Enter tour name : " )
+print("Enter your name : " )
 
 Name = input()
 

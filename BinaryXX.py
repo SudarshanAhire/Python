@@ -1,7 +1,7 @@
 # Indexed
-# Ordered?
+# Ordered
 # mutable
-# it allows duplicates like list and tuple (it my own)
+# it allows duplicates like list and tuple (its my own)
 
 Data = bytearray([65, 97, 98, 99])
 
