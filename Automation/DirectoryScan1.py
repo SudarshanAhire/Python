@@ -11,8 +11,10 @@ def main():
         for SubF in SubFolderName:
             print("SubFolderName : ", SubF)
             
-            for FName in FileName:
-                print("FileName : ", FName)
+        for FName in FileName:
+            print("FileName : ", FName)   
 
 if __name__ == "__main__":
     main()
+
+

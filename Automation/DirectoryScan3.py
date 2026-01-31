@@ -16,8 +16,8 @@ def DirectoryScanner(DirectoryName = "Marvellous"):
         for SubF in SubFolderName:
             print("SubFolderName : ", SubF)
             
-            for FName in FileName:
-                print("FileName : ", FName)
+        for FName in FileName:
+            print("FileName : ", FName)
     
 
 def main():
