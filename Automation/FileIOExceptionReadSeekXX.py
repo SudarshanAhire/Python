@@ -7,7 +7,7 @@
 
 def main():
     try:
-        fobj = open("Hello.txt", "r")
+        fobj = open("Hello.txt", "r")             # Error use "rb"
         print("File gets succesfully opened")
 
         print("Current offset is :", fobj.tell())  # 0

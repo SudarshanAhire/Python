@@ -12,7 +12,5 @@ def main():
         print("It is relative path")
 
 
-    
-
 if __name__ == "__main__":
     main()

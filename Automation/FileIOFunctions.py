@@ -11,7 +11,7 @@ def main():
        print(fobj.closed)  # F
 
        fobj.close()
-       print(fobj.closed)  # F
+       print(fobj.closed)  # T
 
     else:
         print("There is no such file")
