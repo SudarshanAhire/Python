@@ -1,0 +1,2488 @@
+--------------------------------------------------
+---- Marvellous Platform Surveillance System -----
+Log created at : Sun Feb  8 01:12:53 2026
+--------------------------------------------------
+
+----------------- System Report ------------------
+CPU Usage : 44.9 %
+--------------------------------------------------
+RAM usage : 91.8 %
+--------------------------------------------------
+
+Disk Usage Report
+--------------------------------------------------
+C:\ -> 98.7 % used
+D:\ -> 14.2 % used
+--------------------------------------------------
+
+Netwrk Usage Report
+Sent : 13.19 MB
+Recv : 48.72 MB
+--------------------------------------------------
+PID : 0
+Name System Idle Process
+Username NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 439.30
+Memory % : 0.00
+--------------------------------------------------
+PID : 4
+Name System
+Username NT AUTHORITY\SYSTEM
+Status : running
+Start time : 1970-01-01 05:30:00
+CPU % : 62.40
+Memory % : 0.00
+--------------------------------------------------
+PID : 140
+Name 
+Username None
+Status : stopped
+Start time : 2026-02-02 23:54:01
+CPU % : 0.00
+Memory % : 0.49
+--------------------------------------------------
+PID : 184
+Name Registry
+Username None
+Status : running
+Start time : 2026-02-02 23:54:01
+CPU % : 0.00
+Memory % : 0.43
+--------------------------------------------------
+PID : 616
+Name smss.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:04
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 768
+Name ShellExperienceHost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : stopped
+Start time : 2026-02-08 00:14:16
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 836
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:09
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 900
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 916
+Name csrss.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1004
+Name wininit.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 1036
+Name services.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 1.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 1044
+Name LsaIso.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 1064
+Name lsass.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 1080
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1152
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:26
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 1172
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:56
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1196
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.00
+Memory % : 0.34
+--------------------------------------------------
+PID : 1212
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-08 00:13:49
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1228
+Name fontdrvhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 1276
+Name WUDFHost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 1356
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.80
+Memory % : 0.23
+--------------------------------------------------
+PID : 1380
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 1452
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:11
+CPU % : 0.80
+Memory % : 0.05
+--------------------------------------------------
+PID : 1688
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 1696
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1712
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1728
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 1748
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 1952
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 1964
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:26
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 2004
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 2036
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.70
+Memory % : 0.04
+--------------------------------------------------
+PID : 2120
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 2140
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 2156
+Name IntelCpHDCPSvc.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 2184
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 2224
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 2236
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 2380
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 2388
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 13.10
+Memory % : 0.18
+--------------------------------------------------
+PID : 2424
+Name esif_uf.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 2552
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 2564
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 2592
+Name jhi_service.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 2600
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:56
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 2696
+Name igfxCUIServiceN.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 2708
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 2740
+Name Spotify.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:07
+CPU % : 19.00
+Memory % : 1.55
+--------------------------------------------------
+PID : 2760
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:29
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 2844
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 2916
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:42
+CPU % : 0.60
+Memory % : 0.22
+--------------------------------------------------
+PID : 2988
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 3004
+Name Spotify.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:04
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 3068
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 3128
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 3136
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 3144
+Name MemCompression
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 1.10
+Memory % : 0.72
+--------------------------------------------------
+PID : 3276
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 3320
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 3400
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 3424
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:28
+CPU % : 0.00
+Memory % : 0.34
+--------------------------------------------------
+PID : 3472
+Name NisSrv.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:55:04
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 3492
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.50
+Memory % : 0.13
+--------------------------------------------------
+PID : 3500
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:41
+CPU % : 0.50
+Memory % : 0.25
+--------------------------------------------------
+PID : 3520
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 3532
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:12
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 3608
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 4.40
+Memory % : 0.28
+--------------------------------------------------
+PID : 3624
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:59
+CPU % : 0.50
+Memory % : 1.20
+--------------------------------------------------
+PID : 3708
+Name spoolsv.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 3800
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 3848
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 3904
+Name mysqld.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 3928
+Name Dell.TechHub.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 3936
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 3948
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 1.40
+Memory % : 0.55
+--------------------------------------------------
+PID : 3956
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.48
+--------------------------------------------------
+PID : 3976
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 4024
+Name GoogleInputService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.50
+Memory % : 0.03
+--------------------------------------------------
+PID : 4048
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:56
+CPU % : 1.40
+Memory % : 0.47
+--------------------------------------------------
+PID : 4072
+Name IntelAudioService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4104
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 4128
+Name RAPS.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:14
+CPU % : 11.60
+Memory % : 0.12
+--------------------------------------------------
+PID : 4148
+Name MpDefenderCoreService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 4156
+Name SafeExamBrowser.Service.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 4172
+Name mongod.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 3.10
+Memory % : 0.27
+--------------------------------------------------
+PID : 4196
+Name mysqld.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4208
+Name mc-fw-host.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 1.70
+Memory % : 0.63
+--------------------------------------------------
+PID : 4240
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4292
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:14
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 4332
+Name RstMwService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4372
+Name RtkBtManServ.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4388
+Name SmartByteAnalyticsService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4440
+Name RuntimeBroker.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:16
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4472
+Name SmartByteNetworkService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 2.10
+Memory % : 0.29
+--------------------------------------------------
+PID : 4484
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4524
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 4564
+Name UltraViewer_Service.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4652
+Name WavesAudioService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4700
+Name WavesSysSvc64.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 4816
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 2.80
+Memory % : 0.26
+--------------------------------------------------
+PID : 4848
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 4908
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 4916
+Name FileCoAuth.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:16:08
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 4936
+Name MsMpEng.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 10.30
+Memory % : 1.70
+--------------------------------------------------
+PID : 5044
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:44
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 5192
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 5196
+Name ONENOTEM.EXE
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:10
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 5208
+Name Dell.TechHub.Diagnostics.SubAgent.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 5588
+Name msedge.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:46
+CPU % : 0.00
+Memory % : 0.32
+--------------------------------------------------
+PID : 5628
+Name FusionService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:37
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 5864
+Name IntelGraphicsSoftware.Service.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:24
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 5988
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:44
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 6068
+Name RAPSService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:13
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 6228
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-03 23:05:30
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 6260
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:57
+CPU % : 0.00
+Memory % : 0.29
+--------------------------------------------------
+PID : 6372
+Name Dell.Connected.Service.Delivery.SubAgent.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 7000
+Name Dell.TechHub.Instrumentation.SubAgent.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 1.31
+--------------------------------------------------
+PID : 7068
+Name Dell.TechHub.DataManager.SubAgent.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.54
+--------------------------------------------------
+PID : 7176
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 7192
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 7200
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 7208
+Name Dell.CoreServices.Client.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.51
+--------------------------------------------------
+PID : 7220
+Name Dell.TechHub.Analytics.SubAgent.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 7228
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 7240
+Name Dell.Update.SubAgent.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 7268
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 7280
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 7324
+Name Dell.UCA.Manager.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 7416
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:05
+CPU % : 0.00
+Memory % : 2.35
+--------------------------------------------------
+PID : 7480
+Name conhost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:15
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 7540
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:45
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 7856
+Name msedge.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:46
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 7932
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:25
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 8064
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 01:12:11
+CPU % : 0.00
+Memory % : 0.86
+--------------------------------------------------
+PID : 8252
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:45
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 8276
+Name gamingservices.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:24
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 8376
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:49
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 8448
+Name SmartByteTelemetry.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:15:09
+CPU % : 5.60
+Memory % : 0.09
+--------------------------------------------------
+PID : 8464
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:18
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 8636
+Name Spotify.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:14
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 8808
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:45
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 8848
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 01:12:14
+CPU % : 0.00
+Memory % : 0.37
+--------------------------------------------------
+PID : 9068
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:17
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 9196
+Name gamingservicesnet.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:24
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 9252
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:08
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 9292
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:23
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 9312
+Name WmiPrvSE.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:19
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 9488
+Name ServiceShell.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:20
+CPU % : 0.00
+Memory % : 0.34
+--------------------------------------------------
+PID : 10064
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:24
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 10076
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:40
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 10200
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:24
+CPU % : 28.60
+Memory % : 0.28
+--------------------------------------------------
+PID : 10220
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:01
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 10584
+Name uihost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:07
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 10688
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:28
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 10824
+Name WidgetService.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:25
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 10872
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:56
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 11004
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:25
+CPU % : 0.00
+Memory % : 0.17
+--------------------------------------------------
+PID : 11088
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:28
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 11200
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:07
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 11244
+Name PresentMonService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:26
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 11324
+Name BingSvc.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:37
+CPU % : 0.00
+Memory % : 0.14
+--------------------------------------------------
+PID : 11404
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-07 21:14:14
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 11444
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:26
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 11456
+Name WidgetBoard.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:23
+CPU % : 0.30
+Memory % : 0.17
+--------------------------------------------------
+PID : 11632
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:39
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 11792
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:27
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 11836
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:01
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 11940
+Name AggregatorHost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:27
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 12064
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:34
+CPU % : 0.30
+Memory % : 0.11
+--------------------------------------------------
+PID : 12072
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:28
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 12504
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:57
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 12584
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:29
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 12656
+Name WMIRegistrationService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:29
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 12748
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:29
+CPU % : 0.00
+Memory % : 0.31
+--------------------------------------------------
+PID : 13080
+Name LinkedIn.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:56
+CPU % : 0.00
+Memory % : 0.42
+--------------------------------------------------
+PID : 13152
+Name AdobeARM.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:14
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 13156
+Name Dell.D3.WinSvc.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:33
+CPU % : 0.00
+Memory % : 0.23
+--------------------------------------------------
+PID : 13188
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:29
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 13404
+Name Spotify.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:05
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 13432
+Name ctfmon.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:29
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 13616
+Name msedge.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:46
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 13668
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:57
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 13832
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:17
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 13888
+Name GoogleInputHandler.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:07
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 14068
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:39
+CPU % : 26.10
+Memory % : 4.00
+--------------------------------------------------
+PID : 14228
+Name fontdrvhost.exe
+Username None
+Status : running
+Start time : 2026-02-07 21:14:20
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 14268
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:26
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 14356
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:40
+CPU % : 0.00
+Memory % : 1.50
+--------------------------------------------------
+PID : 14612
+Name winlogon.exe
+Username None
+Status : running
+Start time : 2026-02-07 21:14:20
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 14772
+Name TextInputHost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:33
+CPU % : 0.00
+Memory % : 0.25
+--------------------------------------------------
+PID : 14872
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:44
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 15004
+Name taskhostw.exe
+Username None
+Status : running
+Start time : 2026-02-08 01:10:30
+CPU % : 0.00
+Memory % : 0.43
+--------------------------------------------------
+PID : 15012
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-07 20:39:38
+CPU % : 0.60
+Memory % : 0.15
+--------------------------------------------------
+PID : 15220
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:46
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 15592
+Name SearchHost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:23
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 15604
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:57:11
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 15620
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:47
+CPU % : 0.00
+Memory % : 0.35
+--------------------------------------------------
+PID : 15688
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:38
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 15764
+Name mc-neo-host.exe
+Username None
+Status : running
+Start time : 2026-02-07 11:51:38
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 15808
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:03
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 15900
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:16
+CPU % : 0.00
+Memory % : 3.65
+--------------------------------------------------
+PID : 16156
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:57
+CPU % : 0.00
+Memory % : 0.56
+--------------------------------------------------
+PID : 16204
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:41
+CPU % : 0.60
+Memory % : 3.08
+--------------------------------------------------
+PID : 16352
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:38
+CPU % : 5.40
+Memory % : 1.21
+--------------------------------------------------
+PID : 16724
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:09
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 16912
+Name DellSupportAssistRemedationService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:33
+CPU % : 0.00
+Memory % : 0.31
+--------------------------------------------------
+PID : 17084
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:25
+CPU % : 0.00
+Memory % : 0.31
+--------------------------------------------------
+PID : 17132
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:03
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 17356
+Name backgroundTaskHost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:06
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 17444
+Name igfxEMN.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:09
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 17456
+Name Spotify.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:05
+CPU % : 2.10
+Memory % : 0.13
+--------------------------------------------------
+PID : 17540
+Name pet.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:01
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 17876
+Name dwm.exe
+Username None
+Status : running
+Start time : 2026-02-07 21:14:20
+CPU % : 3.20
+Memory % : 0.57
+--------------------------------------------------
+PID : 18104
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:45
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 18316
+Name crashpad_handler.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:15:39
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 18392
+Name cmd.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:02
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 18540
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:02
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 18676
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:28
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 18696
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:57
+CPU % : 0.60
+Memory % : 0.19
+--------------------------------------------------
+PID : 18728
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:54:57
+CPU % : 54.60
+Memory % : 0.08
+--------------------------------------------------
+PID : 18744
+Name Spotify.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:04
+CPU % : 0.00
+Memory % : 0.66
+--------------------------------------------------
+PID : 18856
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-07 12:36:25
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 19088
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:46
+CPU % : 0.00
+Memory % : 0.19
+--------------------------------------------------
+PID : 19368
+Name browserhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:02
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 19404
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:56
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 19428
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:28
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 19724
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:46
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 19764
+Name servicehost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:41
+CPU % : 3.70
+Memory % : 0.33
+--------------------------------------------------
+PID : 19840
+Name Copilot.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:01
+CPU % : 0.00
+Memory % : 0.18
+--------------------------------------------------
+PID : 19872
+Name SecurityHealthService.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:55:05
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 19988
+Name WmiPrvSE.exe
+Username None
+Status : running
+Start time : 2026-02-06 21:33:02
+CPU % : 2.60
+Memory % : 0.41
+--------------------------------------------------
+PID : 20068
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:00
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 20272
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:39
+CPU % : 0.80
+Memory % : 1.32
+--------------------------------------------------
+PID : 20308
+Name mc-extn-browserhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:02
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 20320
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:02
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 20504
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-05 19:16:53
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 20548
+Name SupportAssistAgent.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:41
+CPU % : 0.00
+Memory % : 0.53
+--------------------------------------------------
+PID : 20676
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-03 15:59:46
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 20808
+Name taskhostw.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:09
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 20868
+Name dasHost.exe
+Username None
+Status : running
+Start time : 2026-02-03 21:50:53
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 20928
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-03 00:10:15
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 21000
+Name explorer.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:10
+CPU % : 0.60
+Memory % : 1.67
+--------------------------------------------------
+PID : 21100
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:28
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 21108
+Name RuntimeBroker.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:57
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 21124
+Name taskhostw.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:09
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 21180
+Name FileSyncHelper.exe
+Username None
+Status : running
+Start time : 2026-02-05 01:20:35
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 21200
+Name Dell.Connected.Service.Delivery.exe
+Username None
+Status : running
+Start time : 2026-02-02 23:56:27
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 21468
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:56
+CPU % : 0.00
+Memory % : 0.06
+--------------------------------------------------
+PID : 21520
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:28
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 21700
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:46
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 21912
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:40
+CPU % : 0.00
+Memory % : 0.40
+--------------------------------------------------
+PID : 22424
+Name StartMenuExperienceHost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:23
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 22444
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:46
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 22796
+Name SearchIndexer.exe
+Username None
+Status : running
+Start time : 2026-02-06 10:25:33
+CPU % : 0.50
+Memory % : 0.18
+--------------------------------------------------
+PID : 23036
+Name OfficeClickToRun.exe
+Username None
+Status : running
+Start time : 2026-02-03 22:37:01
+CPU % : 0.00
+Memory % : 0.25
+--------------------------------------------------
+PID : 23052
+Name mc-fw-host.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:07
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 23384
+Name csrss.exe
+Username None
+Status : running
+Start time : 2026-02-07 21:14:20
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 23680
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:26
+CPU % : 0.00
+Memory % : 0.10
+--------------------------------------------------
+PID : 24128
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:26
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 24316
+Name RuntimeBroker.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:55
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 24472
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:44
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 24516
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:13
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 24580
+Name sppsvc.exe
+Username None
+Status : running
+Start time : 2026-02-08 01:12:43
+CPU % : 0.00
+Memory % : 0.20
+--------------------------------------------------
+PID : 24672
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:08
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 24804
+Name Spotify.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:05
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 24832
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-03 00:56:23
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 25284
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:40
+CPU % : 0.00
+Memory % : 0.45
+--------------------------------------------------
+PID : 25468
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-07 12:18:33
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 25612
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:54
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 25768
+Name CrossDeviceResume.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:11
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 25864
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:17
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 26020
+Name RuntimeBroker.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:23
+CPU % : 0.00
+Memory % : 0.11
+--------------------------------------------------
+PID : 26244
+Name MicrosoftStartFeedProvider.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:28
+CPU % : 0.00
+Memory % : 0.28
+--------------------------------------------------
+PID : 26564
+Name AppActions.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:20:12
+CPU % : 0.00
+Memory % : 0.09
+--------------------------------------------------
+PID : 26600
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:39
+CPU % : 6.80
+Memory % : 1.62
+--------------------------------------------------
+PID : 27056
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:57
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 27076
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 01:12:11
+CPU % : 0.00
+Memory % : 0.73
+--------------------------------------------------
+PID : 27164
+Name cmd.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:02
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 27180
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:20
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 27288
+Name msedge.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:46
+CPU % : 0.00
+Memory % : 0.08
+--------------------------------------------------
+PID : 27336
+Name python.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 01:11:53
+CPU % : 93.40
+Memory % : 0.28
+--------------------------------------------------
+PID : 28052
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:32
+CPU % : 0.00
+Memory % : 0.05
+--------------------------------------------------
+PID : 28328
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:20
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 28384
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:46
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 28540
+Name RuntimeBroker.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:06
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 28636
+Name dptf_helper.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:07
+CPU % : 3.90
+Memory % : 0.01
+--------------------------------------------------
+PID : 29288
+Name WhatsApp.Root.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:54
+CPU % : 7.70
+Memory % : 0.64
+--------------------------------------------------
+PID : 29520
+Name SpotifyWidgetProvider.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:15:39
+CPU % : 0.00
+Memory % : 0.04
+--------------------------------------------------
+PID : 29632
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:45
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 29664
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:08
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 29668
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:39
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 29956
+Name Code.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:41
+CPU % : 0.00
+Memory % : 0.32
+--------------------------------------------------
+PID : 30412
+Name svchost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:12:09
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 30424
+Name msedge.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:47
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 30452
+Name ShellHost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:23:53
+CPU % : 0.00
+Memory % : 0.07
+--------------------------------------------------
+PID : 30656
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-08 01:10:31
+CPU % : 0.00
+Memory % : 0.12
+--------------------------------------------------
+PID : 30764
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:44
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 30812
+Name powershell.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:45
+CPU % : 0.00
+Memory % : 0.03
+--------------------------------------------------
+PID : 31136
+Name Dell.TechHub.Instrumentation.UserProcess.exe
+Username None
+Status : running
+Start time : 2026-02-08 00:10:39
+CPU % : 5.30
+Memory % : 0.75
+--------------------------------------------------
+PID : 31316
+Name conhost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:45
+CPU % : 0.00
+Memory % : 0.00
+--------------------------------------------------
+PID : 31364
+Name sihost.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:08
+CPU % : 0.00
+Memory % : 0.16
+--------------------------------------------------
+PID : 31608
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:57
+CPU % : 0.00
+Memory % : 0.15
+--------------------------------------------------
+PID : 31620
+Name SecurityHealthSystray.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:10:59
+CPU % : 0.00
+Memory % : 0.01
+--------------------------------------------------
+PID : 31640
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:14:49
+CPU % : 0.00
+Memory % : 0.13
+--------------------------------------------------
+PID : 32040
+Name OneDrive.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:11:29
+CPU % : 0.50
+Memory % : 0.35
+--------------------------------------------------
+PID : 32364
+Name svchost.exe
+Username None
+Status : running
+Start time : 2026-02-04 18:10:10
+CPU % : 0.00
+Memory % : 0.02
+--------------------------------------------------
+PID : 32548
+Name chrome.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:31:15
+CPU % : 0.00
+Memory % : 1.61
+--------------------------------------------------
+PID : 32760
+Name msedgewebview2.exe
+Username DESKTOP-T07VA24\Sudarshan Ahire
+Status : running
+Start time : 2026-02-08 00:13:57
+CPU % : 0.70
+Memory % : 1.16
+--------------------------------------------------
+--------------------------------------------------
+----------------- End of Log File ----------------
+--------------------------------------------------
