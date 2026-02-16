@@ -20,7 +20,7 @@ def calculate_hash(path):
 
     fobj.close()
 
-    return hobj.hashlib()
+    return hobj.hexdigest()
 
 def BackupFiles(Source, Destination):
     copied_files = []
@@ -67,6 +67,7 @@ def main():
 
     if(len(sys.argv) == 2):
         if(sys.argv[1] == "--h" or sys.argv[1] == "--H"):
+            print("This scipt is used to : ")
             print("1 : Text auto backup at given time")
             print("2 : Backup only new and updated files")
             print("3 : Create and archive of backup periodically")

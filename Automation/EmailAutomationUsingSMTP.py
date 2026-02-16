@@ -10,7 +10,7 @@ def send_mail(sender, app_password, receiver, subject, body):
 
     msg.set_content(body)
 
-    smtp = smtp = smtplib.SMTP_SSL("smtp.gmail.com", 465)
+    smtp = smtplib.SMTP_SSL("smtp.gmail.com", 465)
 
     smtp.login(sender, app_password)
 

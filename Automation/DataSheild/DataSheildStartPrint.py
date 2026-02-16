@@ -33,7 +33,7 @@ def MarvellousDataSheildStart(Source = "Data"):
     BackupName = "MarvellousBackup"
     print("Backup process started succesfully at ", time.ctime())
 
-    files =BackupFiles(Source, BackupName)
+    files = BackupFiles(Source, BackupName)
 
     print("Report about the backup")
     for name in files:
@@ -48,6 +48,7 @@ def main():
 
     if(len(sys.argv) == 2):
         if(sys.argv[1] == "--h" or sys.argv[1] == "--H"):
+            print("This scipt is used to : ")
             print("1 : Text auto backup at given time")
             print("2 : Backup only new and updated files")
             print("3 : Create and archive of backup periodically")
