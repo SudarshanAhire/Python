@@ -1,0 +1,19 @@
+def Addition(No1, No2):
+    return No1 + No2
+
+def main():
+    No1 = 0
+    No2 = 0
+    Ans = 0
+
+    print("Enter first number :")
+    No1 = int(input())
+
+    print("Enter second number :")
+    No2 = int(input())
+
+    Ans = Addition(No1, No2) 
+
+    print("Addition of two numbers : ", Ans)
+
+main()
