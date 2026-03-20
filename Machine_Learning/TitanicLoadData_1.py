@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 #   Parameters :    title (str)
 #   Return :        None
 #   Date :          14/03/2026
-#   Author :        Piyush Manohar Khairnar
+#   Author :        Sudarshan Gokul Ahire
 #--------------------------------------------------------
 
 def DisplayInfo(title):
@@ -29,7 +29,7 @@ def DisplayInfo(title):
 #                   message ->  Heading text to display
 #   Return :        None
 #   Date :          14/03/2026
-#   Author :        Piyush Manohar Khairnar
+#   Author :        Sudarshan Gokul Ahire
 #--------------------------------------------------------
 
 def ShowData(df,message):
@@ -55,7 +55,7 @@ def ShowData(df,message):
 #   Parameters :    Data path of dataset file
 #   Return :        None
 #   Date :          14/03/2026
-#   Author :        Piyush Manohar Khairnar
+#   Author :        Sudarshan Gokul Ahire
 #--------------------------------------------------------
 
 def MarvellousTitanicLogistic(DataPath):
@@ -70,7 +70,7 @@ def MarvellousTitanicLogistic(DataPath):
 #   Parameters :    None
 #   Return :        None
 #   Date :          14/03/2026
-#   Author :        Piyush Manohar Khairnar
+#   Author :        Sudarshan Gokul Ahire
 #--------------------------------------------------------
 
 def main():
