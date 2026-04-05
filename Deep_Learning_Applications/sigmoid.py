@@ -2,8 +2,18 @@ import math
 import matplotlib.pyplot as plt
 import numpy as np
 
-def Marvellous_neuron_forward():
+def sigmoid(z):
     pass 
+
+# Neuron calculation 
+def Marvellous_neuron_forward(inputs, weights, bias):
+    # 1) Display inputs and weights 
+    print("Inputs (x):", inputs)
+    print("Weights (w):", weights)
+    print("Bias (b):", bias)
+
+    # 2) Summation z = wx + b 
+
 
 def plot_sigmoid():
     pass
