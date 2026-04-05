@@ -13,6 +13,15 @@ def Marvellous_neuron_forward(inputs, weights, bias):
     print("Bias (b):", bias)
 
     # 2) Summation z = wx + b 
+    z = sum(w*x for w, x in zip(inputs, weights)) + bias
+    print("Summation (z = wx + b):", z)
+
+    # 3) Activation function output 
+    y_hat = sigmoid(z)
+    print("Activation Function Sigmoid")
+    print("Output (y_hat = sigmoid(z)):", y_hat)
+
+    return z, y_hat
 
 
 def plot_sigmoid():
