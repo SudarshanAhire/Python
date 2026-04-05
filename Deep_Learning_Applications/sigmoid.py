@@ -3,7 +3,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 def sigmoid(z):
-    pass 
+    """Sigmoid Function : squashes values to (0, 1) range."""
+    return 1 / (1 + math.exp(-z))
 
 # Neuron calculation 
 def Marvellous_neuron_forward(inputs, weights, bias):
