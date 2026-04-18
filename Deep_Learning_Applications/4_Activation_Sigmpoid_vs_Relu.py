@@ -1,6 +1,6 @@
 # ---------------------------------------------------------
 # Program : Sigmoid vs ReLU Neuron Comparison
-# Author  : Piyush Manohar Khairnar
+# Author  : Sudarshan Gokul Ahire
 # ---------------------------------------------------------
 
 import math
