@@ -5,7 +5,7 @@ sequence = [1, 2, 3] # Let's say 1=I, 2=Love, 3=AI
 
 # Initialization weights and hidden state 
 Wx, Wh, b = 0.5, 0.8, 0.1   # Random chosen values
-h = 0   # initial hidden state
+h = 0   # initial  hidden state
 
 print("Processing sequence step by step:")
 
