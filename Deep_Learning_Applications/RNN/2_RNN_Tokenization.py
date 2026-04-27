@@ -1,6 +1,3 @@
-# import tensorflow as tf
-# print(tf.__version__)
-
 # ============================================================
 # Program 2 : Split Sentence into Words
 # Target:
@@ -10,7 +7,6 @@
 sentence = "food was not good"
 
 words = sentence.split()
-print(words)
 
 print("=" * 60)
 print("        Marvellous Infosystems")
