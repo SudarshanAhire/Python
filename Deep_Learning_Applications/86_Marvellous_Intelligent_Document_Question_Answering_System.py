@@ -1,4 +1,6 @@
 # =========================================================
+#              Marvellous Infosystems
+# =========================================================
 # Project Name : Intelligent Document Question Answering System
 #                using RAG and Large Language Models
 #
@@ -24,7 +26,7 @@ from sentence_transformers import SentenceTransformer
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Function Name : extract_text_from_pdf
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -52,7 +54,7 @@ def extract_text_from_pdf(pdf_file):
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Function Name : split_text_into_chunks
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -78,7 +80,7 @@ def split_text_into_chunks(text, chunk_size=500, overlap=100):
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Function Name : load_embedding_model
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -93,7 +95,7 @@ def load_embedding_model():
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Function Name : create_vector_database
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -117,7 +119,7 @@ def create_vector_database(chunks, embedding_model):
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Function Name : search_relevant_chunks
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -143,7 +145,7 @@ def search_relevant_chunks(question, chunks, index, embedding_model, top_k=3):
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Function Name : ask_llm
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -154,7 +156,7 @@ def search_relevant_chunks(question, chunks, index, embedding_model, top_k=3):
 
 def ask_llm(question, context):
     prompt = f"""
-You are an intelligent document question answering assistant created for Sudarshan Ahire.
+You are an intelligent document question answering assistant created for Marvellous Infosystems.
 
 Project:
 Intelligent Document Question Answering System using RAG and Large Language Models.
@@ -178,11 +180,11 @@ Answer:
 
     url = "http://localhost:11434/api/generate"
 
-    # payload = {
-    #     "model": "llama3",
-    #     "prompt": prompt,
-    #     "stream": False
-    # }
+    payload = {
+        "model": "llama3",
+        "prompt": prompt,
+        "stream": False
+    }
 
     try:
         response = requests.post(url, json=payload)
@@ -200,7 +202,7 @@ Answer:
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Function Name : show_project_flow
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -240,14 +242,14 @@ def show_project_flow():
 
 
 # =========================================================
-#              
+#              Marvellous Infosystems
 # Streamlit Web Application
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
 # =========================================================
 
 st.set_page_config(
-    page_title="Sudarshan Ahire | Intelligent Document QA System",
+    page_title="Marvellous Infosystems | Intelligent Document QA System",
     page_icon="📘",
     layout="wide"
 )
@@ -402,7 +404,7 @@ header {
 # ------------------ Header Section ------------------
 
 st.markdown(
-    '<div class="main-title">Sudarshan Ahire</div>',
+    '<div class="main-title">Marvellous Infosystems</div>',
     unsafe_allow_html=True
 )
 
@@ -592,7 +594,7 @@ with tab3:
 st.markdown("""
 <div class="footer">
 <hr>
-<b>Sudarshan Ahire</b><br>
+<b>Marvellous Infosystems</b><br>
 आम्ही Technical संस्कार करतो !!!<br>
 Project developed by Sudarshan Gokul Ahire | Date: 09/05/2026
 </div>
