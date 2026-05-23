@@ -1,6 +1,6 @@
 """
 File Name    : report_generator.py
-Author       : Piyush Manohar Khairnar
+Author       : Sudarshan Gokul Ahire
 Date         : 10/05/2026
 
 Description  :
@@ -81,7 +81,7 @@ def save_report(student_name, report):
         file.write("              Generated Interview Report\n")
         file.write("=" * 70 + "\n\n")
 
-        file.write("Author : Piyush Manohar Khairnar\n")
+        file.write("Author : Sudarshan Gokul Ahire\n")
         file.write("Date   : 10/05/2026\n")
 
         file.write("=" * 70 + "\n")

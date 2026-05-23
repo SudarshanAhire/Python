@@ -1,9 +1,9 @@
 """
 ============================================================
-    Marvellous SmartHire AI Agent
+                SmartHire AI Agent
 ============================================================
 
-Author       : Piyush Manohar Khairnar
+Author       : Sudarshan Gokul Ahire
 Date         : 10/05/2026
 
 Description  :
@@ -232,7 +232,7 @@ Give one practical suggestion to improve interview performance.
               AI Mock Interview Report
 ============================================================
 
-Author       : Piyush Manohar Khairnar
+Author       : Sudarshan Gokul Ahire
 Date         : 10/05/2026
 
 Student Name : {self.student_name}

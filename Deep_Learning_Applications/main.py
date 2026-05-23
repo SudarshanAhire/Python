@@ -1,8 +1,8 @@
 """
 ============================================================
-                Marvellous SmartHire AI Agent
+                   SmartHire AI Agent
 ============================================================
-Author       : Piyush Manohar Khairnar
+Author       : Sudarshan Gokul Ahire
 Date         : 10/05/2026
 
 Description  :
@@ -33,7 +33,7 @@ def print_header():
     print("              Marvellous Infosystems")
     print("              AI Mock Interview Agent")
     print("              Text Based Version")
-    print("              Author : Piyush Manohar Khairnar")
+    print("              Author : Sudarshan Gokul Ahire")
     print("              Date   : 10/05/2026")
     print("              आम्ही Technical संस्कार करतो !!!")
     print("=" * 70)

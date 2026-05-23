@@ -39,7 +39,7 @@ HEADERS = [
 # Description :     Read the data into pandas dataframe
 # Inpt :            path of CSV file
 # Output :          Gives the data
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def read_data(path):
@@ -52,7 +52,7 @@ def read_data(path):
 # Description :     dataset headers
 # Input :           dataset
 # Output :          Returns the header
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def get_headers(dataset):
@@ -64,7 +64,7 @@ def get_headers(dataset):
 # Description :     Add the headers to the dataset
 # Input :           dataset
 # Output :          Updated dataset
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def add_headers(dataset, headers):
@@ -76,7 +76,7 @@ def add_headers(dataset, headers):
 # Function name :   data_file_to_csv
 # Input :           Nothing
 # Output :          Write the data to CSV
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def data_file_to_csv():
@@ -91,7 +91,7 @@ def data_file_to_csv():
 #  Description :    Filter missing values from the dataset
 # Input :           Dataset with mising values
 # Output :          Dataset by remocing missing values
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def handle_missing_values_with_imputer(df, feature_headers):
@@ -112,7 +112,7 @@ def handle_missing_values_with_imputer(df, feature_headers):
 # Description :     Split the dataset with train_percentage
 # Input :           Dataset with related information
 # Output :          Dataset after splitting
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def split_dataset(dataset, train_percentage, feature_headers, target_header, random_state=42):
@@ -132,7 +132,7 @@ def dataset_statistics(dataset):
 #  Description :    Build a Pipeline:
 #  SimpleImputer:   replace missing with median
 #                   RandomForestClassifier: robust baseline
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def build_pipeline():
@@ -151,7 +151,7 @@ def build_pipeline():
 ##########################################
 # Function name :   train_pipeline
 #  Description :    Train a Pipeline:
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def train_pipeline(pipeline, X_train, y_train):
@@ -161,7 +161,7 @@ def train_pipeline(pipeline, X_train, y_train):
 ##########################################
 # Function name :   save_model
 #  Description :    Save the model
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def save_model(model, path=MODEL_PATH):
@@ -171,7 +171,7 @@ def save_model(model, path=MODEL_PATH):
 ##########################################
 # Function name :   load_model
 #  Description :    Load the trained model
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def load_model(path=MODEL_PATH):
@@ -182,7 +182,7 @@ def load_model(path=MODEL_PATH):
 ##########################################
 # Function name :   plot_confusion_matrix_matshow
 # Description :     Display Confusion Matrix
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def plot_confusion_matrix_matshow(y_true, y_pred, title="Confusion Matrix"):
@@ -201,7 +201,7 @@ def plot_confusion_matrix_matshow(y_true, y_pred, title="Confusion Matrix"):
 ##########################################
 # Function name :   plot_feature_importances
 # Description :     Display the feture importance
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def plot_feature_importances(model, feature_names, title="Feature Importances (Random Forest)"):
@@ -226,7 +226,7 @@ def plot_feature_importances(model, feature_names, title="Feature Importances (R
 #########################################
 # Function name :   main
 # Description :     Main function from where execution starts
-# Author :          Piyush Manohar Khairnar
+# Author :          Sudarshan Gokul Ahire
 # Date :            01/05/2026
 #########################################
 def main():

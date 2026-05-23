@@ -1,6 +1,4 @@
 # =========================================================
-#              Marvellous Infosystems
-# =========================================================
 # Project Name : Intelligent Document Question Answering System
 #                using RAG and Large Language Models
 #
@@ -26,7 +24,6 @@ from sentence_transformers import SentenceTransformer
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Function Name : extract_text_from_pdf
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -54,7 +51,6 @@ def extract_text_from_pdf(pdf_file):
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Function Name : split_text_into_chunks
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -80,7 +76,6 @@ def split_text_into_chunks(text, chunk_size=500, overlap=100):
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Function Name : load_embedding_model
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -95,7 +90,6 @@ def load_embedding_model():
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Function Name : create_vector_database
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -119,7 +113,6 @@ def create_vector_database(chunks, embedding_model):
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Function Name : search_relevant_chunks
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -145,7 +138,6 @@ def search_relevant_chunks(question, chunks, index, embedding_model, top_k=3):
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Function Name : ask_llm
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -202,7 +194,6 @@ Answer:
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Function Name : show_project_flow
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026
@@ -242,7 +233,6 @@ def show_project_flow():
 
 
 # =========================================================
-#              Marvellous Infosystems
 # Streamlit Web Application
 # Author        : Sudarshan Gokul Ahire
 # Date          : 09/05/2026

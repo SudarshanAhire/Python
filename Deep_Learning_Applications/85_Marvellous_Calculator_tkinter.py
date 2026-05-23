@@ -1,8 +1,6 @@
 # =========================================================
-#              Marvellous Infosystems
-# =========================================================
-# Project Name : Marvellous Infosystems Calculator
-# Author       : Piyush Manohar Khairnar
+# Project Name :  Calculator
+# Author       : Sudarshan Gokul Ahire
 # Date         : 09/05/2026
 # =========================================================
 

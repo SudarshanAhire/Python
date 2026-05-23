@@ -1,4 +1,3 @@
-print("Marvellous Infosystems")
 print("AI Agent with Calculator Tool")
 
 def calculator(expression):

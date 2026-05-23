@@ -1,4 +1,3 @@
-print("Marvellous Infosystems")
 print("Simple Rule Based AI Agent")
 
 def simple_agent(user_input):

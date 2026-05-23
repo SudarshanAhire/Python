@@ -1,10 +1,10 @@
 """
 ============================================================
-Marvellous SmartHire AI Agent
+            SmartHire AI Agent
 ============================================================
 
 File Name    : llm_engine.py
-Author       : Piyush Manohar Khairnar
+Author       : Sudarshan Gokul Ahire
 Date         : 10/05/2026
 
 Description  :
